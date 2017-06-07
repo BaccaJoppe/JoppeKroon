@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Animals Around the World</title>
+</head>
+<body>
+  <h1>The Dogs of Joppe</h1>
+  <!-- A section that describes the brown bear -->
+  <p>The dogs of Joppe are very sweet. they are called Kiki and Nana. also known as NaKi. they are alwys trying to lick people, that means they love them.</p>
+  <p>Here are the dogs names:</p>
+  <ul>
+    <li>Kiki</li>
+    <li>Nana</li>
+  </ul>
+  <p>The following countries have the the sweetest dogs called Kiki and Nana:</p>
+  <ol>
+    <li>Holland</li>
+  </ol>
+  <a href="#" target="_blank">
+  </body> 
+</html>
